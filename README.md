@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**evilprince2009/evilprince2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a full stack Web Application developer, mostly experienced with developing dynamic and high end web based tools and task automations.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Always available for new opportunities, my experties include:-
+-   ⚡ .NET Core , C#
+-   ⚡ Node , Express
+-   ⚡ Angular , Typescript , ES6 , Vanilla
+-   ⚡ MSSQL , MYSQL , MONGO
+-   ⚡ EF / EF Core
+-   ⚡ Code First / DB First
+-   ⚡ Git / TFS / SVN
+-   ⚡ NUnit / xUnit / Selenium
+-   ⚡ Apache , Nginx , IIS

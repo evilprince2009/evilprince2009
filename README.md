@@ -13,6 +13,6 @@
   -   ⚡ NUnit / xUnit / Selenium
   -   ⚡ Apache , Nginx , IIS
 
-- ### Summery at a glance
+- ### Summary at a glance
 [![trophy](https://github-profile-trophy.vercel.app/?username=evilprince2009)](https://github.com/evilprince2009/github-profile-trophy)
 

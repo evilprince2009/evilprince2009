@@ -21,7 +21,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilprince2009&theme=algolia&hide_border=true"/>
 </p>
 
- </br>
+
  <p align="center">
   <a href="https://github.com/evilprince2009">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=evilprince2009&show_icons=true&theme=algolia&count_private=true">

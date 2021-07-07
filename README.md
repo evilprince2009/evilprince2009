@@ -15,8 +15,6 @@
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-</br>
-</br>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilprince2009&theme=algolia&hide_border=true"/>
 </p>

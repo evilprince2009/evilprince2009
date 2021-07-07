@@ -13,12 +13,25 @@
   -   ⚡ NUnit / xUnit / Selenium
   -   ⚡ Apache , Nginx , IIS
 
-- ### Summary at a glance
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
-<a href="https://bn.quora.com/profile/%E0%A6%87%E0%A6%AC%E0%A6%A8%E0%A7%87-%E0%A6%A8%E0%A6%BE%E0%A6%B9%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8-Ibne-Nahian" target="_blank">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evilprince2009&show_icons=true&theme=tokyonight&line_height=27" alt="evilprince2009" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=evilprince2009&show_icons=true&theme=tokyonight&line_height=27" alt="evilprince2009's github stats"/>
-</a>
+</br>
+</br>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evilprince2009&theme=radical&hide_border=true"/>
+</p>
+
+ </br>
+ <p align="center">
+  <a href="https://github.com/evilprince2009">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=evilprince2009&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=evilprince2009&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+
+
 
 
 ### 💖👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅

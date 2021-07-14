@@ -14,7 +14,7 @@
   - ⚡ NUnit / xUnit / Selenium
   - ⚡ Apache , Nginx , IIS
 
-  <p align="center" style = "font-size: 15px;"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 

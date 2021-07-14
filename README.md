@@ -6,15 +6,14 @@
 
   - ⚡ .NET Core , C#
   - ⚡ Node , Express
-  - ⚡ Angular , Typescript , ES6 , Vanilla
+  - ⚡ Blazor , Angular , Typescript , ES6 , Vanilla
   - ⚡ MSSQL , MYSQL , MONGO
   - ⚡ EF / EF Core
   - ⚡ Code First / DB First
   - ⚡ Git / TFS / SVN
   - ⚡ NUnit / xUnit / Selenium
-  - ⚡ Apache , Nginx , IIS
-
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
+  - ⚡ Apache , Nginx , IIS Express
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 

@@ -7,7 +7,7 @@
   - ⚡ .NET Core , C#
   - ⚡ Node , Express
   - ⚡ Blazor , Angular , Typescript , ES6 , Vanilla
-  - ⚡ MSSQL , MYSQL , MONGO
+  - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ EF / EF Core
   - ⚡ Code First / DB First
   - ⚡ Git / TFS / SVN

@@ -13,12 +13,12 @@
   - ⚡ Git / TFS / SVN
   - ⚡ NUnit / xUnit / Selenium
   - ⚡ Apache , Nginx , IIS Express
-  <!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p> -->
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
 
-  <samp>
+  <!-- <samp>
     <p align="right"><img src="https://profile-counter.glitch.me/evilprince2009/count.svg" />
     </p>
-  </samp>
+  </samp> -->
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 

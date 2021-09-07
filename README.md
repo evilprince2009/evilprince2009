@@ -38,12 +38,14 @@
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/evilprince2009/">
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/evilprince2009/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.facebook.com/evilprince2009">
   <img src="https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
+</p>
 
 ### 💖👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
 

@@ -38,6 +38,12 @@
   </a>
 </p>
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![image](https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white)][facebook]
+
 ### 💖👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=evilprince2009)](https://github.com/evilprince2009/github-profile-trophy)-->
+
+[facebook]: https://www.facebook.com/evilprince2009
+[linkedin]: https://www.linkedin.com/in/evilprince2009/

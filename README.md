@@ -37,16 +37,4 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=evilprince2009&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
 </p>
-
-<p style="text-align: center;">
-  <a href="https://www.linkedin.com/in/evilprince2009/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.facebook.com/evilprince2009">
-  <img src="https://img.shields.io/badge/Facebook-036ce4?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-</p>
-
 ### 💖👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=evilprince2009)](https://github.com/evilprince2009/github-profile-trophy)-->

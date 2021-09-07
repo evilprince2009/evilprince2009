@@ -16,8 +16,7 @@
   <!-- <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p> -->
 
   <samp>
-    <p align="center"> 
-        Visitors : <img src="https://profile-counter.glitch.me/ehalt/count.svg" />
+    <p align="right"><img src="https://profile-counter.glitch.me/evilprince2009/count.svg" />
     </p>
   </samp>
 

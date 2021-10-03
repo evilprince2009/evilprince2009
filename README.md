@@ -6,7 +6,7 @@
 
   - ⚡ .NET Core , C#
   - ⚡ Node , Express
-  - ⚡ Blazor , Angular , Typescript , ES6 , Vanilla
+  - ⚡ WASM , Blazor , Angular , Typescript , ES6 , Vanilla
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ EF / EF Core
   - ⚡ Code First / DB First

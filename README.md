@@ -4,21 +4,17 @@
 
 - ⚡ Always available for new opportunities, my experties include:-
 
-  - ⚡ .NET Core , C#
-  - ⚡ Node , Express
-  - ⚡ WASM , Blazor , Angular , Typescript , ES6 , Vanilla
+  - ⚡ Typescript , ES6 , Vanilla
+  - ⚡ Angular , Redux
+  - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
+  - ⚡ .NET , C#
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
-  - ⚡ EF / EF Core
-  - ⚡ Code First / DB First
-  - ⚡ Git / TFS / SVN
+  - ⚡ Entity Framework , Dapper , Nhibernate
+  - ⚡ Git / GitHub
   - ⚡ NUnit / xUnit / Selenium
-  - ⚡ Apache , Nginx , IIS Express
-  <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
+  - ⚡ Apache , Nginx , IIS
 
-  <!-- <samp>
-    <p align="right"><img src="https://profile-counter.glitch.me/evilprince2009/count.svg" />
-    </p>
-  </samp> -->
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
@@ -38,4 +34,4 @@
   </a>
 </p>
 
-### 💖👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
+### 👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅

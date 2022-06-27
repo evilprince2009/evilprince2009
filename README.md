@@ -7,11 +7,13 @@
   - ⚡ Typescript , ES6 , Vanilla
   - ⚡ Angular , Redux
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
-  - ⚡ .NET , C#
+  - ⚡ C# , Java , Python , JavaScript , PHP
+  - ⚡ .NET , Express , NodeJS
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ Entity Framework , Dapper , Nhibernate
+  - ⚡ Selenium WebDriver , Playwright , Puppeteer
   - ⚡ Git / GitHub
-  - ⚡ NUnit / xUnit / Selenium
+  - ⚡ NUnit / xUnit / MS Test
   - ⚡ Apache , Nginx , IIS
 
   <p align="right"><img src="https://komarev.com/ghpvc/?username=evilprince2009&label=Profile%20views&color=0e75b6&style=flat" alt="evilprince2009"/></p>
@@ -33,5 +35,7 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=evilprince2009&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
 </p>
+
+### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296) 🦅
 
 ### 👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅

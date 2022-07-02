@@ -7,7 +7,7 @@
   - ⚡ Typescript , ES6 , Vanilla
   - ⚡ Angular , Redux
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
-  - ⚡ C# , Java , Python , JavaScript , PHP
+  - ⚡ C# , Java , Python , C++ , PHP
   - ⚡ .NET , Express , NodeJS
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ Entity Framework , Dapper , Nhibernate

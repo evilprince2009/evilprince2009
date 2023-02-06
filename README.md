@@ -31,9 +31,6 @@
   <a href="https://github.com/evilprince2009">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=evilprince2009&layout=compact&theme=algolia&langs_count=6" />
   </a>
-  <a href="https://github.com/evilprince2009">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=evilprince2009&theme=react-dark&hide_title=true&hide_border=true&area=true" />
-  </a>
 </p>
 
 ### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296) 🦅

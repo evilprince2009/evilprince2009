@@ -4,14 +4,14 @@
 
 - ⚡ Always available for new opportunities, my experties include:-
 
-  - ⚡ Typescript , ES6 , Vanilla
-  - ⚡ Angular , Redux
+  - ⚡ Angular , Nuxt3
+  - ⚡ ASP.NET Core, Express
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
-  - ⚡ C# , Java , Python , C++ , PHP , Js
-  - ⚡ .NET , Express , NodeJS
+  - ⚡ C# , Java , Python , C++ , PHP , TypeScript , Vanilla JS
+  - ⚡ .NET , NodeJS
   - ⚡ RDBMS / NoSQL (MSSQL , MYSQL , MongoDB)
   - ⚡ Entity Framework , Dapper , Nhibernate
-  - ⚡ Selenium WebDriver , Playwright , Puppeteer
+  - ⚡ Selenium WebDriver , Playwright , Puppeteer , Scrapy
   - ⚡ Git / GitHub
   - ⚡ NUnit / xUnit / MS Test
   - ⚡ Apache , Nginx , IIS

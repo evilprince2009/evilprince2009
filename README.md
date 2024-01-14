@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m a full stack Web Application developer, mostly experienced with developing dynamic and high end web based tools and task automations.
+- 🔭 I'm a full-stack web developer specializing in backend development. I excel in creating dynamic web tools and automating tasks for enhanced efficiency. My focus is on delivering high-end, seamless solutions that optimize user experiences.
 
 - ⚡ Always available for new opportunities, my experties include:-
 
-  - ⚡ Angular , Nuxt3
   - ⚡ ASP.NET Core, Express
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
   - ⚡ C# , Java , Python , C++ , PHP , TypeScript , Vanilla JS

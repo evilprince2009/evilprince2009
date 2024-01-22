@@ -36,6 +36,6 @@
 
 <hr>
 
-#### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296) 🦅
+#### 👉 Hire me on Upwork [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296)
 
-#### 👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
+#### 👉 LinkedIn [Portfolio](https://www.linkedin.com/in/evilprince2009/)

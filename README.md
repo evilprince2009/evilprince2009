@@ -34,6 +34,6 @@
 
 ### Let's collaborate and bring your web development projects to life! 🚀
 
-### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296) 🦅
+#### 👉 Visit [Upwork profile](https://www.upwork.com/freelancers/~01ded0be5baccfa296) 🦅
 
-### 👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅
+#### 👉 Visit my [Portfolio](https://evilprince2009.netlify.app/) 🦅

@@ -2,7 +2,7 @@
 
 - 🔭 I'm a versatile full-stack web developer with a specialization in backend development. My expertise lies in crafting dynamic web tools and automating tasks to boost overall efficiency. I am dedicated to delivering top-notch, seamless solutions that optimize user experiences.
 
-- ⚡ #### Open to new opportunities, my skills encompass:
+#### - ⚡ Open to new opportunities, my skills encompass:
 
   - ⚡ ASP.NET Core, Express
   - ⚡ WordPress , WooCommerce , Elementor , Divi , CrocoBlock
